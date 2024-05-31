@@ -7,7 +7,7 @@ Traffic speed prediction is crucial for efficient traffic management and route o
 # Dataset
 The dataset used in this project contains traffic speed data collected over time. It includes information on traffic speed at different timestamps and locations.
 
-**Note**: Due to privacy reasons, the dataset cannot be included directly in this repository. You can access the dataset via the following link: Traffic Speed Dataset
+**Note**: Due to privacy reasons, the dataset cannot be included directly in this repository. You can access the dataset via the following link: [Traffic Speed Dataset](https://drive.google.com/drive/folders/1E-rRwIPFDZcTWc7zZDcyd4XbIgecW97q)
 
 # How it Works
 **Data Preparation**: Ensure your traffic speed data is properly formatted for sequence prediction tasks.
